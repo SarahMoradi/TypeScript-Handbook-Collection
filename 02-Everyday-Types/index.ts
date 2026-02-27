@@ -19,10 +19,10 @@ const strings: Array<string> = ["2", "4"];
 
 
 // ✅ Functions
-function greet(name: string) {
+function greetAgain(name: string) {
   console.log("Hello, " + name.toUpperCase() + "!!");
 }
-greet("sarah");
+greetAgain("sarah");
 
 
 //###################################################################################
