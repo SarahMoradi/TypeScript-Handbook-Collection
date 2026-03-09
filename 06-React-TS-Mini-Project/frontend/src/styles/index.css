@@ -1,0 +1,13 @@
+@import "tailwindcss";
+@config "../../tailwind.config.js";
+
+@font-face {
+  font-family: "yekan-bakh";
+  src: url("../assets/fonts/yekan-bakh-regular.woff");
+}
+
+* {
+  text-align: right;
+  direction: rtl;
+  font-family: "yekan-bakh";
+}
